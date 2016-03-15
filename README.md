@@ -19,9 +19,11 @@ Users enter a number that returns "ping" if it's divisible by 3, "pong" if it's 
 
 ##Program Set-up instructions:
 
-Click on the Github link provided below. If you are not immediately directed to the page, click on the index.html file in the project folder.
+Click on the Github link provided below.
 
-(https://github.com/Ambermeetsrobot/pingpong.git)
+(http://ambermeetsrobot.github.io/CodeReview/)
+
+If you are not immediately directed to the page, click on the index.html file in the project folder (https://github.com/Ambermeetsrobot/CodeReview.git).
 
 ##Technologies used
 
