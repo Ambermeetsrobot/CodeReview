@@ -2,16 +2,16 @@ var pingpong = function(number) {
   var text = "";
   for (var i = 1; i <= number; i++) {
     if (i % 15 === 0) {
-      text += "pingpong";
+      text += "pingpong" + "<br>";
     } else if (i % 5 === 0) {
-      text += "pong";
+      text += "pong" + "<br>";
     } else if (i % 3 === 0) {
-      text += "ping";
+      text += "ping" + "<br>";
     } else {
-      text += i;
+      text += i + "<br>";
     }
   }
-     return text;
+     return text + "<br>";
 };
 
 $(document).ready(function() {
